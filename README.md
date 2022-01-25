@@ -1,4 +1,4 @@
-# The Heroes of Pymoli
+# The Heroes of Pymoli Active Player Purchase Analysis
 
 <h2>Overview</h2>
 This is a data set that contains information on active players who are making purchases in the game "The Heroes of Pymoli."  The included jupyter notebook breaks down and summarizes the following data:<br>
